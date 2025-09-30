@@ -1,0 +1,16 @@
+export const products = [
+  {id:1, Category: "Mobile", Name: "S20", Size: "320", Price: "5000" },
+  {id:2, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:3, Category: "Mobile", Name: "S20", Size: "320", Price: "5000" },
+  {id:4, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:5, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:6, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:7, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:8, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:9, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:10, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:11, Category: "Mobile", Name: "S20", Size: "320", Price: "5000" },
+  {id:12, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+  {id:13, Category: "Mobile", Name: "S20", Size: "320", Price: "5000" },
+  {id:14, Category: "Laptop", Name: "Dell i5", Size: "15'", Price: "50000" },
+];
